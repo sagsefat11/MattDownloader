@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp2iss8v-jyencgkx",
+  "source_url": "https://filesto.firezone.space/download/gAAAAABqAwJfXxhobcyPoLq8O_YFhLKaqrq4hdJFp1PgucOAOKJqsNXnEcDk0l-ZGrYh_2e4ezvEmW8WZoXtXCo2ZGiznxz2T0mQv7VqIEB4H56sMbVXlm3RlHBbGEIhariW3kiWNy3AttP3gzXo6hAjhm3x_W9eow==",
+  "created_at_utc": "2026-05-12T11:01:44Z",
+  "mode": "single",
+  "total_size_bytes": 62102942,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp2iss8v-jyencgkx/file.bin",
+  "chunks_path_prefix": "jobs/job-mp2iss8v-jyencgkx/chunks/chunk_",
+  "suggested_filename": "gAAAAABqAwJfXxhobcyPoLq8O_YFhLKaqrq4hdJFp1PgucOAOKJqsNXnEcDk0l-ZGrYh_2e4ezvEmW8WZoXtXCo2ZGiznxz2T0mQv7VqIEB4H56sMbVXlm3RlHBbGEIhariW3kiWNy3AttP3gzXo6hAjhm3x_W9eow"
+}
